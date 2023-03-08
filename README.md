@@ -4,4 +4,6 @@
 * 課程筆記區
 * 作業連結區
     * [Week 2](EducationCostPractice.ipynb)
+    * Week 3
+        * [Adult Income](AdultIncome.ipynb)
 * 專題連結區
